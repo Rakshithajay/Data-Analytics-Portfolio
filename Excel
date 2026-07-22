@@ -1,0 +1,44 @@
+# Microsoft Excel
+
+This repository documents my Microsoft Excel learning journey for **Data Analytics** — covering everything from the fundamentals to advanced analysis and reporting tools.
+
+## 📌 About
+
+This folder contains notes, examples, and practice files as I build my Excel skills step by step, with a focus on techniques commonly used in data analytics workflows.
+
+## 📚 Topics Covered
+
+### Fundamentals
+- [x] Basic Excel
+- [x] Data Validation
+- [x] Conditional Formatting
+- [x] Sorting
+- [x] Filtering
+- [x] Data Cleaning
+- [x] Flash Fill
+
+### Formulas & Functions
+- [x] Basic Aggregation
+- [x] IF Functions
+- [x] Text Functions
+- [x] Date & Time Functions
+- [x] Numerical Functions
+- [x] Lookup & Reference
+
+### Advanced Analytics *(Coming Soon)*
+- [ ] Pivot Tables
+- [ ] Pivot Charts
+- [ ] Dashboards
+- [ ] Power Query
+
+## 🚀 Progress
+
+This is an ongoing learning project — the repository will be updated regularly as new topics are covered.
+
+## 🛠️ Tools Used
+
+- Microsoft Excel
+
+---
+
+⭐ Feel free to explore, and stay tuned for updates as I continue building out the advanced analytics section!
